@@ -39,7 +39,7 @@ Enjoy it. :)
 ## Installation
 1. Follow the steps below to install app perfectly:
 ```shell
- > git clone https://github.com/Amirhoseindzh/django-online-shopping.git
+ > git clone https://github.com/jadkhosravi/django-online-shopping.git
 
  > virtualenv venv 
 
